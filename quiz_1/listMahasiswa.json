@@ -17,6 +17,15 @@
       "angkatan": 2019,
       "status": "lulus",
       "id": 2
+    },
+    {
+      "NIM": "1941720024",
+      "nama": "Ahmad Rohman",
+      "alamat": "Jlan ahmad suhat nomor 103",
+      "hp": "082132575724",
+      "angkatan": "2019",
+      "status": "cuti",
+      "id": 3
     }
   ]
 }
